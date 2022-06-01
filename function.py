@@ -8,5 +8,10 @@ def hi_function(name):
     print("Hi " + name)
 
 # call hi_function and give values for name
-hi_function("Fred")
-hi_function("Joe")
+hi_function("Fruz")
+hi_function("Jalene")
+
+def hi_function(name = "Marta"):
+    print("Hi " + name)
+    
+hi_function()
