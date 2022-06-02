@@ -13,3 +13,10 @@ def degrees(x):
 
 print(degrees(2))
 print(degrees(3))
+
+def fruits(name):
+    for i in name:
+        print(i)
+
+fruit_names = ["Apple", "banana", "watermelon"]
+fruits(fruit_names)
