@@ -20,3 +20,8 @@ def fruits(name):
 
 fruit_names = ["Apple", "banana", "watermelon"]
 fruits(fruit_names)
+
+def fruits(*name):
+    print("The fruit is " + name[2])
+    
+fruits("Apple", "Fig", "Cherry")
