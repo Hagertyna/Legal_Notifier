@@ -25,3 +25,9 @@ def fruits(*name):
     print("The fruit is " + name[2])
     
 fruits("Apple", "Fig", "Cherry")
+def new_names(name1, name2, name3):
+    print("The first name is " + name1)
+    print("The second name is " + name2)
+    print("The last name is " + name3)
+    
+new_names(name1 = "ronaldo", name2 = "john", name3 = "fred")
