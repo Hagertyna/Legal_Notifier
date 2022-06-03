@@ -31,3 +31,14 @@ def new_names(name1, name2, name3):
     print("The last name is " + name3)
     
 new_names(name1 = "ronaldo", name2 = "john", name3 = "fred")
+
+def numbers(n):
+    if(n>0):
+        result = n + numbers(n-1)
+        print(result)
+    else:
+        result = 0
+    return result
+
+print("\n \n recursion results")
+numbers(6)
