@@ -47,5 +47,8 @@ numbers(6)
 #lamda functions
 x = lambda i: i + 10
 print(x(5))
-## outputs 15
+## above code outputs 15
+
+calculate = lambda x, y : x * y
+print(calculate(5, 7))
 
