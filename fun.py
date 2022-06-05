@@ -33,6 +33,7 @@ def new_names(name1, name2, name3):
 new_names(name1 = "ronaldo", name2 = "john", name3 = "fred")
 
 def numbers(n):
+  
     if(n>0):
         result = n + numbers(n-1)
         print(result)
@@ -42,3 +43,9 @@ def numbers(n):
 
 print("\n \n recursion results")
 numbers(6)
+
+#lamda functions
+x = lambda i: i + 10
+print(x(5))
+## outputs 15
+
