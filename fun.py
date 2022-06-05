@@ -52,3 +52,5 @@ print(x(5))
 calculate = lambda x, y : x * y
 print(calculate(5, 7))
 
+math_op = lambda x, y, z : x * y + z
+print(math_op(2, 3, 4))
