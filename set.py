@@ -13,3 +13,6 @@ print("apple" in fruits_set)
 # add new frut
 fruits_set.add("orange")
 print(fruits_set)
+#the following two fruits will be added
+fruits_set.update(["lemon", "cherry"])
+print(fruits_set)
