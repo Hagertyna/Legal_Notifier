@@ -8,3 +8,5 @@ print(fruits_set)
 # each on new line
 for x in fruits_set:
     print(x)
+# the output will be boolean whch is True
+print("apple" in fruits_set)
