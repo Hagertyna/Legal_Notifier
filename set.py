@@ -10,3 +10,6 @@ for x in fruits_set:
     print(x)
 # the output will be boolean whch is True
 print("apple" in fruits_set)
+# add new frut
+fruits_set.add("orange")
+print(fruits_set)
