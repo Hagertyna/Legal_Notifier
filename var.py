@@ -8,3 +8,9 @@ number = 12
 print(number)
 website = "google.com"
 print(website)
+# Assign multiple values in the same line
+num1, num2, num3, name = 3, 5.7, 10, "Fred"
+print(num1)
+print(num2)
+print(num3)
+print(name)
