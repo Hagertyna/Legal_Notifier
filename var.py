@@ -6,3 +6,5 @@ number = 10
 number = 11
 number = 12
 print(number)
+website = "google.com"
+print(website)
