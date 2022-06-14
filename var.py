@@ -25,3 +25,17 @@ GRAVITY = 9.8
 
 print(PI)
 print(GRAVITY)
+#Numeric literals
+num1 = 0b1010 #binary
+num2 = 50  #decimal
+num3 = 0o310 #octal
+num4 = 0x12c #Hexa
+
+num5 = 11.7 #float literal
+num6 = 1.5e2
+
+num7 = 3.2j #complex
+
+
+print(num1, num2, num3, num4)
+print(num5, num6)
