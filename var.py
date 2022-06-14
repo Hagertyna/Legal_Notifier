@@ -14,3 +14,8 @@ print(num1)
 print(num2)
 print(num3)
 print(name)
+# three quencequative equal will be printed in separate line each
+a = b = c = "equal"
+print(a)
+print(b)
+print(c)
