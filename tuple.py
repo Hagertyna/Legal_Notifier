@@ -21,3 +21,7 @@ booleans_t = (True, False, True)
 print(fruits_t)
 print(numbers_t)
 print(booleans_t)
+
+#mixed tuples
+mix_t = ("hi", True, 1, 2.5)
+print(mix_t)
