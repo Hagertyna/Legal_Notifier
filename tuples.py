@@ -6,3 +6,6 @@ print(type(new_f))
 #retrieve data using index
 print(new_f[0])
 print(new_f[1])
+#negative indexing
+print(new_f[-1])
+print(new_f[-2])
