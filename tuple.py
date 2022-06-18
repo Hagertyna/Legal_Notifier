@@ -13,3 +13,11 @@ newfruit2 = ("banana",)
 print(type(newfruit1))
 # prints tuple type
 print(type(newfruit2))
+
+fruits_t = ("banana", "cherry", "apple")
+numbers_t = (1, 2, 3, 4, 5)
+booleans_t = (True, False, True)
+
+print(fruits_t)
+print(numbers_t)
+print(booleans_t)
