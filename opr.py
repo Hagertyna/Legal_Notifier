@@ -14,3 +14,7 @@ print("x != y is", x!=y)
 #bitwise operators
 x = 5
 y = 3
+#
+print(x & y)
+print(x | y)
+print(~x)
