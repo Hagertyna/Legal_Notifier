@@ -9,3 +9,8 @@ print("not a is ", not a)
 x = 10
 y = 15
 print("x != y is", x!=y)
+
+
+#bitwise operators
+x = 5
+y = 3
