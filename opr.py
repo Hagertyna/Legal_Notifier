@@ -11,6 +11,8 @@
 #Division /
 10/4
 
+#Floor Division // 2
+10//4
 #more on operators 
 a = False
 b = True
