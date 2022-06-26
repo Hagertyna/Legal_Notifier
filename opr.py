@@ -13,6 +13,10 @@
 
 #Floor Division // 2
 10//4
+
+#Exponent **
+5**2
+
 #more on operators 
 a = False
 b = True
