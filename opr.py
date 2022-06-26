@@ -5,6 +5,9 @@
 #Subtraction -
 30-4
 
+#Multiplication *
+5*10
+
 #more on operators 
 a = False
 b = True
