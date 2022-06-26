@@ -8,6 +8,9 @@
 #Multiplication *
 5*10
 
+#Division /
+10/4
+
 #more on operators 
 a = False
 b = True
