@@ -1,3 +1,6 @@
+#Artimetic operators
+#Addition +
+1+2+3
 #more on operators 
 a = False
 b = True
