@@ -18,3 +18,14 @@ y = 3
 print(x & y)
 print(x | y)
 print(~x)
+
+x = 5
+y = 10
+
+print("x + y =",x+y)
+print("x - y =",x-y)
+print("x * y =",x*y)
+print("x / y =",x/y)
+print("x % y =",x%y)
+print("x // y = ",x//y)
+print("x ** y =",x**y)
