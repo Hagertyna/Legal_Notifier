@@ -1,6 +1,10 @@
 #Artimetic operators
 #Addition +
 1+2+3
+
+#Subtraction -
+30-4
+
 #more on operators 
 a = False
 b = True
