@@ -1,4 +1,5 @@
 #python variables
+#String literals
 msg = "Python is Fun"
 char = "I"
 multi_line = """This is
