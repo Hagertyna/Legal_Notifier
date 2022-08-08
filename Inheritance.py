@@ -1,4 +1,4 @@
-# Creatingclass and object in python
+# Creating class and object in python
 class myBird:
   def __init__(self):
     print("myBird class constructor is executing...")
