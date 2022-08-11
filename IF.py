@@ -1,6 +1,5 @@
 
-# python program to illustrate If else statement
-#!/usr/bin/python
+# python program to illustrate If else 
  
 i = 20
 if (i < 15):
