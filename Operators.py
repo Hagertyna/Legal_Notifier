@@ -1,4 +1,4 @@
-#operators
+#Operators in python
 x = 5
 y = 10
 
@@ -10,7 +10,7 @@ print("x % y =",x%y)
 print("x // y = ",x//y)
 print("x ** y =",x**y)
 
-#compariosion
+#comparission
 x = 10
 y = 15
 #Membership Operators
