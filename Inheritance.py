@@ -8,7 +8,6 @@ class myBird:
   def canSwim(self):
     print("I can Swim...")
 
-
 # pengiun class inheriting the attributes of from Bird class
 class iamPenguin(myBird):
     def __init__(self):
