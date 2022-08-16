@@ -1,6 +1,5 @@
 
 # python program to illustrate If else 
- 
 n = 20
 if (n < 15):
     print("n is smaller than 15")
