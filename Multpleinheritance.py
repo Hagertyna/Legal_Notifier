@@ -1,4 +1,4 @@
-#Multiple inheritance 
+# Multiple inheritance 
 class Base1:
     def fun1(self):
         print("func1 of Base1 class is executing...")
@@ -15,6 +15,7 @@ class   MultiDer(Base1,Base2,Base3):
     def derFun(self):
         print("derfun of MultiDer class is executing...")
 
+        
 md1 = MultiDer()
 md1.fun1()
 md1.fun2()
