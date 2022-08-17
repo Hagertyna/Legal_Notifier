@@ -20,7 +20,8 @@ y = 15
 x = "Hi there"
 y = [1, 2, 3, 4]
 
-print("H" in x) #True
+# Gives us True
+print("H" in x) 
 print(1 in y) #True
 print("t" not in x) #False
 print(2 not in y) #False
