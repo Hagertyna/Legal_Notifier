@@ -2,6 +2,7 @@
 x = 5
 y = 10
 
+#outputs 15
 print("x + y =",x+y)
 print("x - y =",x-y)
 print("x * y =",x*y)
