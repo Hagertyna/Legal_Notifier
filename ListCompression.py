@@ -1,4 +1,3 @@
-
 # Explicit function
 def digitSum(n):
     dsum = 0
