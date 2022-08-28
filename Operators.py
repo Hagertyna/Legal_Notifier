@@ -21,7 +21,6 @@ y = 15
 #Membership Operators
 x = "Hi there"
 y = [1, 2, 3, 4]
-
 # Gives us True
 print("H" in x) 
 print(1 in y) #True
