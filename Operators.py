@@ -1,7 +1,6 @@
 #Operators in python
 x = 5
 y = 10
-
 #outputs 15
 print("x + y =",x+y)
 #-5
