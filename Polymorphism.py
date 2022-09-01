@@ -24,5 +24,5 @@ bird_pen = IamPenguin()
 #passing the object
 flying_bird_test(bird_par)
 print()
-
+#call method
 flying_bird_test(bird_pen)
