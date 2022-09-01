@@ -4,7 +4,6 @@ class iamparrot:
         print("Parrot can fly...")
     def canSwim(self):
         print("Parrot can't swim...")
-
 class IamPenguin:
     def canFly(self):
         print("Penguin can't fly...")
