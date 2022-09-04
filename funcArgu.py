@@ -16,6 +16,7 @@ hello("Hagi","Have a nice day")
 hello("Hagi")
 
 #function with arbitrary arguments
+
 def dimir(*args):
     sum= 0
     for i in args:
