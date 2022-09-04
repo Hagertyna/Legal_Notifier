@@ -9,6 +9,7 @@ def numMax(a,b):
 print("Maximum nuber between 10 and 30 is ", numMax(10,30))
 print()
 
+
 def hello(name , msg= "how are you?"):#func with default paramter
     print("Hello ",name , msg)
 hello("Hagi","Have a nice day")
