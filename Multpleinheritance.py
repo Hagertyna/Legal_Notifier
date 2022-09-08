@@ -18,6 +18,7 @@ class   MultiDer(Base1,Base2,Base3):
 
         
 md1 = MultiDer()
+
 md1.fun1()
 md1.fun2()
 md1.fun3()
