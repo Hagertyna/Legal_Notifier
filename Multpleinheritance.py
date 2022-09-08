@@ -1,4 +1,5 @@
 # Multiple inheritance in Python
+
 class Base1:
     def fun1(self):
         print("func1 of Base1 class is executing...")
