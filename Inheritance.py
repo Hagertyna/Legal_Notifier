@@ -19,6 +19,7 @@ class iamPenguin(myBird):
         print("I am penguin")
     def canRun(self):
         print("I can run faster...")
+        
 # Accessing the child Class's attributes(Inheritance)
 pg1 = iamPenguin()
 pg1.whatType()   # defined in myBird class
