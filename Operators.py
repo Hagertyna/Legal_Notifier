@@ -9,6 +9,7 @@ print("x - y =",x-y)
 print("x * y =",x*y)
 
 print("x / y =",x/y)
+
 #modulo operator
 print("x % y =",x%y)
 #floor division operator
