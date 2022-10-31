@@ -2,7 +2,6 @@
 class myBird:
   def __init__(self):
     print("myBird class constructor is executing...")
-    
 # User defined methods 
   def whatType(self):
     print("I am a Bird...")
